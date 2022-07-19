@@ -65,7 +65,7 @@ body {
     /* background-color: black; */
 }
 .navBar ul a:hover{
-    border-top: red solid 2px;
+    border-top: #ff0000 solid 4px;
 }
 
 /* Below Navigation Bar and above content */
