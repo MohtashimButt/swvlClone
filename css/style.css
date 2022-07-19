@@ -64,6 +64,9 @@ body {
     /* color: rgb(1, 1, 1); */
     /* background-color: black; */
 }
+.navBar ul a:hover{
+    border-top: red solid 2px;
+}
 
 /* Below Navigation Bar and above content */
 .downloadButton{
